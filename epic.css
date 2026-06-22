@@ -1,0 +1,9 @@
+.nav-logo{
+    width: 100px;
+    border-radius: 20%;
+}
+#hero h3{
+   font-size: 60px;
+   background-color: rgb(245, 9, 9);
+   font-family: 'Arial', sans-serif;
+}
